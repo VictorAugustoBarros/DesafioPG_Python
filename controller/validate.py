@@ -9,7 +9,7 @@ class Validate:
         self.mensagem = mensagem
         self.horarioAgendamento = self.convertStringtoDate(horarioAgendamento)
         self.envios = {}
-        self.config = Files().confi
+        self.config = Files().configs
 
     def validateTelefone(self):
 

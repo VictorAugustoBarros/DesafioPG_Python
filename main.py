@@ -8,7 +8,6 @@ success = []
 try:
     fileController = Files()
     blacklistController = Blacklist()
-
     dataFiles = fileController.getFilesData()
 
     for file in dataFiles:
