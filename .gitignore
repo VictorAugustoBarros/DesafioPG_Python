@@ -84,5 +84,3 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 /conf/service_status.txt
-*.csv
-*.CSV
